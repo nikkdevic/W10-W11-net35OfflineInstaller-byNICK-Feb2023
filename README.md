@@ -16,7 +16,7 @@ The bat files use DISM to install the Net3.5.
 
 The 'sources' folder contains .Net3.5 files from Windows installer ISO for Windows 10 and Windows 11.
 
-The '01-dotnet35installer-local.bat' installer uses files from 'sources' folder.
+The '01-dotnet35installer-local.bat' installer uses files from 'sources' folder. No need for Internet or Windows USB.
 
 The '02-dotnet35installer-fromusb.bat' automatically searches for connected windows installation USB media.
 
