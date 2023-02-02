@@ -3,8 +3,8 @@
 Run One of the following-
 
 
-For standalone install RUN    = " 01-dotnet35installer-local.bat "
+For standalone install RUN = " 01-dotnet35installer-local.bat "
 
 To install from USB RUN = " 02-dotnet35installer-fromusb.bat "
 
-To uninstall RUN              = " 03-dotnet35uninstaller.bat "
+To uninstall RUN = " 03-dotnet35uninstaller.bat "
